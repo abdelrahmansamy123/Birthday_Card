@@ -1,4 +1,4 @@
-# first_project
+# Birthday Card
 
 A new Flutter project.
 
@@ -15,7 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-##
+## Screenshots 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/72905920-77bf-44cd-b5cc-dc7d3acc86e9" width="250" />
 </p>
